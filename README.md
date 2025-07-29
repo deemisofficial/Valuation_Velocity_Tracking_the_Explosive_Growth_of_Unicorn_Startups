@@ -1,7 +1,7 @@
 # Valuation_Velocity_Tracking_the_Explosive_Growth_of_Unicorn_Startups
 # 🦄 Unicorn Valuation Prediction using CatBoost & SHAP
 
-This project leverages machine learning—specifically the **CatBoost Regressor**—to predict the valuations of unicorn startups using key business features. SHAP (SHapley Additive exPlanations) is also used to interpret model predictions and understand feature influence.
+This project leverages machine learning—specifically the **CatBoost Regressor**—to predict the valuations of unicorn startups using key business features. SHAP (SHapley Additive exPlanations) is also used to interpret model predictions and understand the influence of individual features.
 
 ---
 
@@ -26,7 +26,7 @@ To build a predictive model that can estimate a unicorn company’s valuation ba
 - SHAP for model explainability
 - Train/Test Split
 - RMSE & R² scoring
-- Feature engineering (e.g. handling 'Select Investors', 'Country', etc.)
+- Feature engineering (e.g., handling 'Select Investors', 'Country', etc.)
 
 ---
 
@@ -35,7 +35,7 @@ To build a predictive model that can estimate a unicorn company’s valuation ba
 - SHAP summary plots reveal top features influencing unicorn valuation predictions.
 - This helps stakeholders understand **why** the model makes certain predictions.
 
-> 🔬 Example insight: Companies from USA, with higher number of investors, and in specific sectors had the most influence on valuation.
+> 🔬 Example insight: Companies from the USA, with a higher number of investors, and in specific sectors, had the most influence on valuation.
 
 ---
 
