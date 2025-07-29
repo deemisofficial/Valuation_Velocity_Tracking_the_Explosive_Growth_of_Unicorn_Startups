@@ -50,3 +50,4 @@ matplotlib
 shap
 
 ```
+![visualization](industry_distribution_of_unicorns.jpg)
